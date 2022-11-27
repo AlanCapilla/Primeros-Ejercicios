@@ -1,0 +1,36 @@
+.imgRedonda {
+    width:100px;
+    height:100px;
+    border-radius:150px;
+    border:2px solid #666;
+}
+.button {
+    background-color: #3c803f; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button2 {
+    background-color: #bb6330; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button3 {
+    background-color: #3d3fa7; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
